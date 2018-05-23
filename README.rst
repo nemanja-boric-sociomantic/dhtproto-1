@@ -1,4 +1,4 @@
-eDescription
+iieDescription
 ===========
 
 ``dhtproto`` is a library that contains the protocol for the Distributed Hash
